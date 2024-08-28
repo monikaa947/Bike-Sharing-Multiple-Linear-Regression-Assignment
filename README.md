@@ -39,4 +39,4 @@ Give credit here.
 
 
 ## Contact
-Created by [@[githubusername](https://github.com/monikaa947)] - feel free to contact me!
+Created by [@[monikaa947](https://github.com/monikaa947)] - feel free to contact me!
